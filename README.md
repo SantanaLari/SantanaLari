@@ -15,7 +15,7 @@ anoNascimento = 2001
 idade = date.today().year - anoNascimento
 status = 'Estudante de programação'
 linguagem = ['Java', 'SQL', 'Python'] #linguagens que mais uso
-objetivo = 'Análise de dados
+objetivo = 'Análise de dados'
 ```
 
 ## Linguagens e ferramentas 
