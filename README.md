@@ -1,5 +1,15 @@
 ### HELLO WORLD!
 
+```
+from datetime import date
+
+nome = 'Larissa'
+anoNascimento = 2001
+idade = date.today().year - anoNascimento
+status = 'Estudante de programação'
+linguagem = ['Java', 'Python', 'SQL']
+objetivo = 'Análise de dados
+```
           
 
 <div>
