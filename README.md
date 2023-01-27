@@ -14,7 +14,7 @@ nome = 'Larissa'
 anoNascimento = 2001
 idade = date.today().year - anoNascimento
 status = 'Estudante de programação'
-principaisLinguagens = ['Java', 'SQÇ', 'Python']
+linguagem = ['Java', 'SQL', 'Python']
 objetivo = 'Análise de dados
 ```
 
