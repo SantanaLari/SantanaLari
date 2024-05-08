@@ -11,8 +11,8 @@
 from datetime import date
 
 nome = 'Larissa'
-anoNascimento = 2001
-idade = date.today().year - anoNascimento
+ano_nascimento = 2001
+idade = date.today().year - ano_nascimento
 status = 'Estudante de programação'
 linguagem = ['Python', 'SQL', 'Java'] #linguagens que mais uso/usei
 objetivos = {'Desenvolvimento':{'Python'}, 'Dados':{'Análise de Dados', 'Ciência de Dados'}}
